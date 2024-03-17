@@ -151,7 +151,7 @@ be quite handy to send the URL of a page to a smartphone or a tablet.
 The core of the [Poshuku](/plugins-poshuku) module has got an SSL badge
 notifying about the security of the current connection, whether the
 connection is fully secure, or some elements were loaded via unencrypted
-connection, or there were some SSL errors. Teh corresponding dialog
+connection, or there were some SSL errors. The corresponding dialog
 allows viewing the certificates chain:
 
 `{ "name": "poshuku_certs1.png", "align": "inline", "title": "", "thumb": "medium" }`{.img}
